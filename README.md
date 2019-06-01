@@ -1,2 +1,2 @@
 # firstsample1
-Preactice GITHUB
+Practice GITHUB
